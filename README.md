@@ -21,7 +21,7 @@ the OpenWebcam app (the camera end); this desktop client is the receiving end on
 ## Install (Windows 10 / 11, 64-bit)
 
 1. Download the latest installer from the [**Releases**](https://github.com/TonmoyBishwas/openwebcam-desktop-src/releases) page.
-2. Run it (Inno Setup installer, ~4 MB).
+2. Run it (Inno Setup installer, ~25 MB).
 3. Open OpenWebcam on your phone and this desktop client on your PC, then connect over USB or Wi-Fi.
 4. In your call or capture app, pick **OpenWebcam** from the camera list.
 
